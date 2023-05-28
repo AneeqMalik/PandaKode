@@ -4,7 +4,7 @@ function Header() {
   return (
     <header>
       <div className="logo-arrow">
-        <img src={logo} />
+        <img src={logo}  alt="pic"/>
         <i class="fa fa-angle-down fa-3x" aria-hidden="true"></i>
       </div>
 

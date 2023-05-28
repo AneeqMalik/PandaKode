@@ -18,37 +18,37 @@ function Clients() {
       >
         <div class="card" style={{ width: "100px", height: "100px" }}>
           <div class="card-img-top text-center px-5 mt-3">
-            <img src={pic1} class="img-fluid" />
+            <img src={pic1} class="img-fluid"  alt="pic"/>
           </div>
         </div>
         <div class="card" style={{ width: "100px", height: "100px" }}>
           <div class="card-img-top text-center px-5 mt-3">
-            <img src={pic2} class="img-fluid" />
+            <img src={pic2} class="img-fluid" alt="pic" />
           </div>
         </div>
         <div class="card" style={{ width: "100px", height: "100px" }}>
           <div class="card-img-top text-center px-5 mt-3">
-            <img src={pic3} class="img-fluid" />
+            <img src={pic3} class="img-fluid" alt="pic"/>
           </div>
         </div>
         <div class="card" style={{ width: "100px", height: "100px" }}>
           <div class="card-img-top text-center px-5 mt-3">
-            <img src={pic4} class="img-fluid" />
+            <img src={pic4} class="img-fluid" alt="pic"/>
           </div>
         </div>
         <div class="card" style={{ width: "100px", height: "100px" }}>
           <div class="card-img-top text-center px-5 mt-3">
-            <img src={pic5} class="img-fluid" />
+            <img src={pic5} class="img-fluid" alt="pic"/>
           </div>
         </div>
         <div class="card" style={{ width: "100px", height: "100px" }}>
           <div class="card-img-top text-center px-5 mt-3">
-            <img src={pic6} class="img-fluid" />
+            <img src={pic6} class="img-fluid" alt="pic" />
           </div>
         </div>
         <div class="card" style={{ width: "100px", height: "100px" }}>
           <div class="card-img-top text-center px-5 mt-3">
-            <img src={pic7} class="img-fluid" />
+            <img src={pic7} class="img-fluid" alt="pic"/>
           </div>
         </div>
       </div>

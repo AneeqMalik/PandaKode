@@ -13,7 +13,7 @@ function Services() {
               <div class="cardBox">
                 <div className="card">
                   <div className="front">
-                    <img src={service1} />
+                    <img src={service1}  alt="pic"/>
                     <p
                       style={{
                         color: "black",
@@ -47,7 +47,7 @@ function Services() {
               <div class="cardBox">
                 <div className="card">
                   <div className="front">
-                    <img src={service2} />
+                    <img src={service2}  alt="pic"/>
                     <p
                       style={{
                         color: "black",
@@ -76,7 +76,7 @@ function Services() {
               <div class="cardBox">
                 <div className="card">
                   <div className="front">
-                    <img src={service3} />
+                    <img src={service3}  alt=""/>
                     <p
                       style={{
                         color: "black",
