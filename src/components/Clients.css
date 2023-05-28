@@ -1,0 +1,16 @@
+
+.client-slider{
+    max-height: 50vh;
+
+}
+
+
+.card1-title {
+    color: #18abd0;
+}
+
+.card1-img-top img {
+    max-height: 70px;
+    max-width: 70px;
+    margin: auto;
+}
